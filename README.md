@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/secure-pipeline/rails-travis-example.svg?branch=master)](https://travis-ci.org/jholtzman/rails-travis-example)
+[![Build Status](https://travis-ci.org/jholtzman/rails-travis-example.svg?branch=master)](https://travis-ci.org/jholtzman/rails-travis-example)
 
 # Rails Travis Example
 
